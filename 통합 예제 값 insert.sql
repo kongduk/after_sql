@@ -5,6 +5,7 @@ insert into tDepartment values('D2001','가구생산부');
 insert into tDepartment values('D3001','악세사리생산부');
 insert into tDepartment values('D4001','전자기기생산부');
 insert into tDepartment values('D5001','음료생산부');
+insert into tDepartment values('D50012','허세진');
 
 insert into tRank values('R0001','사원');
 insert into tRank values('R0002','주임');
